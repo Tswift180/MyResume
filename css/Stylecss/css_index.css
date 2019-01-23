@@ -1,0 +1,27 @@
+#icon_ofme
+{
+	width: 180px;
+	height: 200px;	
+}
+#detail_msg_div
+{
+	display: none;
+}
+/*.tab-pane
+{
+	border: 2px solid whitesmoke;
+}*/
+.strong_font
+{
+	font-weight: 700;
+}
+.add_fontcolor
+{	
+	color:#337AB7;
+}
+.hr
+{
+   background-color: #337AB7;
+   width: 100%;
+   height: 2px;
+}
